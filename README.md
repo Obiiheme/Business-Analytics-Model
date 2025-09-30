@@ -10,11 +10,7 @@ It focuses on building and evaluating machine learning models for demand forecas
 
 
 
-Two main modeling approaches were explored:
-
-
-
-Quantity-first modeling → Predicting demand (quantity) directly from features.
+One main modeling approaches were explored:
 
 
 
@@ -38,11 +34,15 @@ retail\_pricing\_enhanced.csv → Dataset used for model training and testing
 
 
 
-artifacts/ → Saved models and results (best model .joblib, metrics .json)
+artifacts/ → Saved models and results (best model .joblib, metrics .json,rev\_results\_quantity.json \& model\_metadata.json)
 
 
 
-exploratory/ → Previous exploratory notebooks 
+Data\_explanatory.ipynb  → previous EDA notebook
+
+
+
+requirements.txt
 
 
 
