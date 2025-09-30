@@ -1,0 +1,9 @@
+{
+  "best_model": "XGBoost",
+  "best_params": {
+    "model__n_estimators": 400,
+    "model__max_depth": 3,
+    "model__learning_rate": 0.05
+  },
+  "criteria": "Selected based on lowest RMSE with realistic revenue curve"
+}
