@@ -1,3 +1,12 @@
+
+
+New files uploaded
+
+- Files developed through the project
+- AWS Model deployment
+- Final project Summary 
+
+
 # Business Analytics Model – Price \& Demand Forecasting
 
 ## 📌 Overview
